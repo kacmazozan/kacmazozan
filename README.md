@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I am currently a BSCS student in Sabanci University. I develop programs using C++ and Python. 
 <!--
 **kacmazozan/kacmazozan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
